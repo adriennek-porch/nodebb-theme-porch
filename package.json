@@ -1,10 +1,11 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-porch",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "NodeBB Theme for Porch.com",
   "main": "theme.less",
   "keywords": [
-
+  "porch",
+  "porch.com"
   ],
   "license": "MIT"
 }
