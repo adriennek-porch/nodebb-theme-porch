@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
+    "id": "nodebb-theme-porch",
+    "name": "Porch.com Theme for NodeBB",
     "description": "Enter a description here",
-    "url": "https://github.com/designcreateplay/nodebb-theme-quickstart"
+    "url": "https://github.com/adriennek-porch/nodebb-theme-porch"
 }
