@@ -1,11 +1,20 @@
 {
-  "name": "nodebb-theme-porch",
-  "version": "0.0.0",
-  "description": "NodeBB Theme for Porch.com",
-  "main": "theme.less",
-  "keywords": [
-  "porch",
-  "porch.com"
-  ],
-  "license": "MIT"
+    "name": "nodebb-theme-porch",
+    "version": "0.0.0",
+    "description": "NodeBB Theme for Porch.com",
+    "main": "theme.less",
+    "keywords": [
+    "porch",
+    "porch.com"
+    ],
+    "license": "MIT"
+    "author": {
+    "name": "adriennek-porch",
+    "email": "adriennek@porch.com",
+    "url": "https://porch.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adriennek-porch/nodebb-theme-porch"
+    }
 }
